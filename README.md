@@ -18,6 +18,6 @@ No seriously, coming soon. I'm working on this one.
 
 # Adding more to this repo and readme in the future.
 
-# EXPECTED RELEASE: April 19th, 2017.
+# PLANNED RELEASE: April 22nd, 2017.
 
-Don't hold me to it...
+Updated on 4/19/17
