@@ -2,22 +2,20 @@
 
 HatBot is a custom bot for hack.chat and its forks.
 
-### HatBot comes in 3 **delicious** flavors!
+### HatBot comes in 3 varying sizes!
 
-## Flavor One: BASIC
+## Size One: SMALL
 
-The Basic flavor is just that — basic! It only includes the scripts necessary to run and function. No UI included! Good for deploying to a VPS where a UI isn't neccessary, and can save on memory!
+The Small size is just that — small! Being very basic, it only includes the scripts necessary to run and function. No UI included! Good for deploying to a VPS where a UI isn't neccessary, and can save on memory!
 
-## Flavor Two: FEATURE-HEAVY
+## Size Two: MEDIUM
 
-The Feature-Heavy edition includes and actual UI, with the ability to chat from the bot, view bot statistics (such as the bot's uptime, number of commands issued, errors that may have occurred, and more coming soon), as well as tons of customizable options for the bot itself! More is planned for this verision in the future.
+The Medium edition includes an actual UI, with the ability to chat from the bot, view bot statistics (such as the bot's uptime, number of commands issued, errors that may have occurred, and more coming soon), as well as tons of customizable options for the bot itself! More is planned for this verision in the future.
 
-## Flavor Three: COMING SOON
+## Size Three: LARGE
 
-No seriously, coming soon. I'm working on this one.
+Similar to the Medium version, the Large is designed to deploy and manage multiple bots on different rooms or servers. The Large version will give you full control over all aspects of the bot(s), as well as CPU and RAM usage monitoring per bot. More is planned for this version in the future.
 
 # Adding more to this repo and readme in the future.
 
-# PLANNED RELEASE: April 22nd, 2017.
-
-Updated on 4/19/17
+# PLANNED RELEASE: Unknown.
