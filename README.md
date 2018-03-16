@@ -17,8 +17,7 @@ Screenshot:
 
 ## Size Three: LARGE
 
-Similar to the Medium version, the Large is designed to deploy and manage multiple bots on different rooms or servers. The Large version will give you full control over all aspects of the bot(s), as well as CPU and RAM usage monitoring per bot. More is planned for this version in the future.
+The Large version will contain the same features as the Medium, but is designed to deploy and manage multiple bots on different rooms or servers. The Large version will give you full control over all aspects of the bot(s), as well as CPU and RAM usage monitoring per bot. More is planned for this version in the future.
 
 # Adding more to this repo and readme in the future.
-
 # PLANNED RELEASE: Unknown.
